@@ -1,0 +1,7 @@
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Ficha_Trabalho\bin\Debug\Ficha_Trabalho.exe.config
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Ficha_Trabalho\bin\Debug\Ficha_Trabalho.exe
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Ficha_Trabalho\bin\Debug\Ficha_Trabalho.pdb
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Ficha_Trabalho\obj\Debug\Ficha_Trabalho.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Ficha_Trabalho\obj\Debug\Ficha_Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Ficha_Trabalho\obj\Debug\Ficha_Trabalho.exe
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Ficha_Trabalho\obj\Debug\Ficha_Trabalho.pdb

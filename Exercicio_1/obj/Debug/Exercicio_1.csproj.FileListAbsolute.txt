@@ -1,0 +1,10 @@
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Exercicio_1\bin\Debug\Exercicio_1.exe.config
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Exercicio_1\bin\Debug\Exercicio_1.exe
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Exercicio_1\bin\Debug\Exercicio_1.pdb
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Exercicio_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Exercicio_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Exercicio_1\obj\Debug\Exercicio_1.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Exercicio_1\obj\Debug\Exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Exercicio_1\obj\Debug\Exercicio_1.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Exercicio_1\obj\Debug\Exercicio_1.exe
+C:\Users\Ricardo\Desktop\Ficha_Trabalho\Exercicio_1\obj\Debug\Exercicio_1.pdb
